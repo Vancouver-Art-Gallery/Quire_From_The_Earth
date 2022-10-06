@@ -1,0 +1,160 @@
+--- # ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: "From The Earth"
+subtitle: "Edith Heath | Emily Carr"
+reading_line:
+short_title: "Heath Digital Publication"
+
+description:
+  one_line:
+  full: >-
+    Quire is a digital publishing framework built on top of the Hugo static site
+    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2023-01-01 # YYYY-MM-DD
+language: en
+pub_type: book # book | journal-periodical | other
+
+identifier:
+  isbn:
+  url:
+
+publisher:
+  - name: Vancouver Art Gallery
+    location: Vancouver
+    url:
+    logo: logo-getty.png
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears:
+
+contributor:
+  - id: Jay Stewart
+    type: primary
+    first_name: Jay
+    last_name: Stewart
+    title: Curator
+    affiliation: Heath Foundation
+    bio: "Jay Stewart is the Trustee of the Brian and Edith Foundation. She knew the Heaths from the time of her birth to their deaths; at their request, she assisted with their personal affairs in their later years. Since Edith Heath’s death in 2005, Stewart has devolved the Heaths’ estate, placing their extensive archives at the Environmental Design Archives, UC Berkeley and assembling a study collection of Heath Ceramics’ products. With her husband, Peter Macnair, Stewart is a peripatetic curator, consulting on the material culture and ethnology of First Nations of the Northwest Coast. Exhibitions and publications include To the Totem Forests: Emily Carr and Contemporaries Interpret Coastal Villages (Art Gallery of Greater Victoria, 1998), Down from the Shimmering Sky: Masks of the Northwest Coast (Vancouver Art Gallery, 1998), Listening to the Ancestors: The Art of Native Life in the Pacific Northwest (National Museum of the American Indian, 2000–2006), and Raven Travelling: Two Centuries of Haida Art (Vancouver Art Gallery 2006)."
+    url:
+    pic: contributors/degas.jpg
+
+  - id: Jennifer Volland
+    type: primary
+    first_name: Jennifer
+    last_name: Volland
+    title: Curator
+    affiliation:
+    bio: "**NEED BIO** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae dignissim dui. Nunc malesuada consequat vehicula. Nunc porttitor a turpis vel tristique. Curabitur eu augue nisi. Ut mollis semper mauris sit amet auctor. Sed purus est, cursus vel volutpat posuere, sodales in sapien. Duis semper suscipit vulputate. Fusce pharetra mattis felis, fringilla porta nulla auctor id. Nulla auctor nulla vel elit vestibulum porta. Sed a sapien eu erat iaculis accumsan eu non diam. Quisque aliquam gravida ipsum, quis efficitur lacus commodo sed. Phasellus eu imperdiet lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies dui a vehicula finibus. Nullam rutrum mi eu turpis maximus, a iaculis lacus mollis."
+    url:
+    pic: contributors/manet.jpg
+
+  - id: Bruce Grenville
+    type: primary
+    first_name: Bruce
+    last_name: Grenville
+    title: Senior Curator, Vancouver Art Gallery
+    affiliation:
+    bio: "**NEED BIO** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae dignissim dui. Nunc malesuada consequat vehicula. Nunc porttitor a turpis vel tristique. Curabitur eu augue nisi. Ut mollis semper mauris sit amet auctor. Sed purus est, cursus vel volutpat posuere, sodales in sapien. Duis semper suscipit vulputate. Fusce pharetra mattis felis, fringilla porta nulla auctor id. Nulla auctor nulla vel elit vestibulum porta. Sed a sapien eu erat iaculis accumsan eu non diam. Quisque aliquam gravida ipsum, quis efficitur lacus commodo sed. Phasellus eu imperdiet lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies dui a vehicula finibus. Nullam rutrum mi eu turpis maximus, a iaculis lacus mollis."
+    url:
+    pic: contributors/diderot.jpg
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2022 Vancouver Art Gallery
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /downloads/output.pdf
+  - type: other-format
+    name: EPUB
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: /downloads/output.epub
+  - type: other-format
+    name: Kindle/MOBI
+    media_type: vnd.amazon.mobi8-ebook
+    link_relation: alternate
+    url: /downloads/output.mobi
+  - type: footer-link
+    name: About
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url:
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url:
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: bisac
+    name: PHOTOGRAPHY / Subjects & Themes / Historical
+    identifer: PHO023100
+  - type: getty
+    name: Dorothea Lange
+    identifier: "https://vocab.getty.edu/ulan/500007674"
+  - type: keyword
+    name: photography
+  - type: getty
+    name: Walker Evans
+    identifier: "https://vocab.getty.edu/ulan/500012076"
+  - type: getty
+    name: black-and-white photography
+    identifier: "https://vocab.getty.edu/aat/300162056"
+  - type: getty
+    name: despression (economic concept)
+    identifier: "https://vocab.getty.edu/aat/300410245"
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: cover.png
