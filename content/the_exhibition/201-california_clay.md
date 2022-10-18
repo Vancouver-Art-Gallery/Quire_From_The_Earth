@@ -9,7 +9,7 @@ contributor:
   - id: Jay Stewart
 abstract:
 ---
-{{< q-figure id="cali-clay-01" >}}
+{{< q-figure id="cali-clay-01" alt="A photograph several ceramic pieces displayed at the exhibition" >}}
 
 Edith Heath’s affinity for and fascination with her surrounding landscape informed her art. In 1943, she and her husband Brian spent weekends driving around California looking for clay deposits. With many clay-mining operations closed during World War II, the couple found defunct clay pits and gathered materials. They collected brick clays from Niles Canyon in the San Francisco Bay Area; white clay from Tesla, California; talc from Southern California; and eventually high refractory fire clays, which are used primarily to produce fire brick, from Ione, in the foothills of the Sierra Nevada.
 
@@ -19,5 +19,31 @@ Alongside her explorations in the natural environment, Heath enrolled in a ceram
 
 California materials would remain an integral part of Heath’s manufacturing philosophy and the California landscape a constant source of inspiration.
 
+{{< q-figure id="" alt="A photograph of five Heath clay pieces displayed at the exhibition with a white background" caption="" >}}
 
+HeathCarr_091.jpg
+Photo by Blaine Campbell
+
+These five pieces show Edith Heath's early experimentation with clay bodies, using California clays with metallic oxides as colourants. This experimentation led to the clay body Heath formulated in 1945--46 for Heath Ceramics dinnerware; it used Dosch clay for texture and manganese dioxide for colour. When glazed or stained, the clay body "shines through," giving the ware its characteristic speckle. Heath wanted her dinnerware to reflect its origin, and although this approach defied the norms of the day, it ultimately helped shape the aesthetics of California ceramics.
+
+> I was looking for a clay that nobody knew anything about, that had unique properties that I could utilize and develop, that would be expressive of the region. I began to work with California clays that had certain properties that I could do something with, that would then turn out to look like something that nobody else had ever made. (Heath, *Oral History*, p. 72) 
+
+{{< q-figure id="" alt="Close-up photograph of three pieces in the exhibition" caption="" >}}
+
+HeathCarr_076.jpg
+Photo by Blaine Campbell
+
+Edith Heath had her first solo exhibition of ceramics in 1944 at the California Palace of the Legion of Honor in San Francisco, featuring 82 pieces of hand-built and hand-thrown work. The handmade pieces in this display are representative of Heath's work during this period. They demonstrate the evolution of Heath's vision, first working with what she had available---clay, her hands, a rolling pin and fabric---before experimenting on a potter's wheel and, within five years, transitioning to more mechanized production.
+
+> I wanted to make an extension in my medium scientifically and aesthetically and socially. There were never enough hours in the day to do all the things I could fantasize about. (Heath, *Oral History*, p. 77)
+
+\_\_
+
+{{< q-figure id="" alt="A photograph of on an installation with three ceramic plates in the forefront and four vases in the backgorund" caption="" >}}
+
+HeathCarr_082.jpg
+Photo by Blaine Campbell
+
+Three hand-thrown salad plates show Heath's early glaze experiments; she sought to create glazes to highlight the colour and texture of her Dosch fire clay and manganese clay body. Copper and iron oxides added to the glazes on the first plate make a range of transparent to opaque greens
+and pinks; cobalt and chrome oxides added to the glazes on the second plate make a range of transparent to opaque blues and blue-greens; and manganese and yellow stain added to the glazes on the third plate make a range of transparent to opaque purple-browns and yellows.
 _
