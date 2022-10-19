@@ -3,8 +3,8 @@ label: 2
 title: "Gump's / Hand Thrown to Production"
 subtitle:
 weight: 202
-type: page
-class:
+type: entry
+class: side-by-side
 contributor:
   - id:
 abstract:

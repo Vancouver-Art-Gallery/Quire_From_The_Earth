@@ -3,8 +3,8 @@ label: 3
 title: "Coupe / Original Glazes"
 subtitle:
 weight: 203
-type: page
-class:
+type: entry
+class: side-by-side
 contributor:
   - id:
 abstract:

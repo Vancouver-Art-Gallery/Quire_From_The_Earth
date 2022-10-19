@@ -3,8 +3,8 @@ label: 1
 title: "California Clay / Early Experiments"
 subtitle:
 weight: 201
-type: page
-class:
+type: entry
+class: side-by-side
 contributor:
   - id: Jay Stewart
 abstract:

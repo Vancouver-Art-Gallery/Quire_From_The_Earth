@@ -3,8 +3,8 @@ label: 5
 title: "Two-toned Porcelain-lined/Exposed Clay Edge"
 subtitle:
 weight: 205
-type: page
-class:
+type: entry
+class: side-by-side
 contributor:
   - id:
 abstract:

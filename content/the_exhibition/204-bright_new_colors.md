@@ -3,8 +3,8 @@ label: 4
 title: "Bright New Colors/Spray Glazes"
 subtitle:
 weight: 204
-type: page
-class:
+type: entry
+class: side-by-side
 contributor:
   - id:
 abstract:
