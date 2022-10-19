@@ -1,7 +1,7 @@
 ---
 title: "Introduction : Jay Stewart"
 weight: 102
-type: page
+type: essay 
 ---
 *Edith Heath and Emily Carr: From the Earth* brings together the work of two artists who had a mutual understanding of the land as the source and meaning of their art. Both found a deep inspiration in the landscape—its colours, light, materials—returning again and again to sites that inspired their creativity and defined their practices.
 

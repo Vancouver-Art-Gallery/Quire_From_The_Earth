@@ -12,7 +12,7 @@ object_list:
     medium: Various
     dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
     location: Vancouver Art Gallery
-    link: 
+    link:
     figure:
       - id: "title-wall-VAG"
       - id: "carr_01"
@@ -47,3 +47,15 @@ object_list:
     link: https://www.getty.edu/art/collection/objects/34753/
     figure:
       - id: "family"
+  - id: 5
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "cali-clay-01"
+      - id: "gumps_01"
+      - id: "title-wall-VAG"

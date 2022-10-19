@@ -2,7 +2,7 @@
 title: "Photo Essay"
 weight: 103
 type: entry
-class: side-by-side
+class: grid 
 search: false
 object:
   - id: 2

@@ -1,7 +1,7 @@
 ---
 title: Director’s Foreword
 weight: 101
-type: page
+type: essay 
 ---
 Edith Heath and Emily Carr are unlikely companions in an exhibition and yet they shared a [their] [our] gallery space as if they were old friends with a wealth of mutual interests. Their individual commitment to the land and their recognition of its fundamental importance to all aspects of life on the west coast is their most immediate and compelling point of intersection. For both artists the land was a real and tangible presence that deeply affected the subjects they chose, the tools they used, and the objects they made. Seen together in the same space, their works share a generous conversation where each acknowledges the other’s world vision while articulately rendering the specificity of their own time and place.
 
