@@ -2,10 +2,10 @@
 title: "Photo Essay"
 weight: 103
 type: entry
-class: grid 
+class: landscape
 search: false
 object:
-  - id: 2
+  - id: 5
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consectetur faucibus ullamcorper. Fusce pretium ligula in erat efficitur lacinia. Nam sed facilisis arcu, et mattis nisi. Nam sit amet feugiat dui, consequat pulvinar lectus. Nulla mattis tempus arcu, sed lobortis diam tempor nec. Suspendisse non eros eget arcu suscipit placerat. Aenean et mattis metus. Nam gravida convallis metus ut laoreet.
 

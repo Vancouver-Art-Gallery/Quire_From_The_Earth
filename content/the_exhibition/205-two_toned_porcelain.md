@@ -3,11 +3,13 @@ label: 5
 title: "Two-toned Porcelain-lined/Exposed Clay Edge"
 subtitle:
 weight: 205
-type: page
-class:
+type: entry
+class: side-by-side
 contributor:
   - id:
 abstract:
+object:
+  - id: 5
 ---
 Though Heath began experimenting with porcelain-lined ware as early as 1949, she did not use the technique in production until the two- toned glazes—White/Sand, Gold/Apricot, Pumpkin/Brown—were released with the buffet service in 1955. She continued her fascination with the interaction between clay and glaze. A porcelain slip applied to the interior of the ware blocked the effect of the manganese in the clay body, creating two distinct colours from the same glaze.
 
