@@ -9,11 +9,6 @@ object:
   - id:
 
 ---
-{{< q-figure id="" alt="Photograph of of exhibition setup" caption="" >}}
-
-Carr_Heath_0009.jpg
-Photo by Ian Lefebvre
-
 In 1948, the Heaths, with friends Eral and Kenny Leek, bought the Dorothea, an old potato hauler that they called "the Barge," for $2,850. Eral and Edith designed and built a duplex on the scow, with back-to-back fireplaces on the wall separating the two apartments. It floated on the Sausalito waterfront until, in 1951, the two couples moved the Barge to a waterfront acreage in nearby Tiburon. The Leeks and their children moved to Mill Valley in the late 1950s, and the Heaths continued to enjoy co-living over the next four decades, inviting various friends and family to stay for prolonged visits.
 
 Robert Royston and Edith Heath collaborated on the landscape design. From the start, the patios and deck featured Heath's projects in clay, with ceramic screens, benches and tabletops and tiled ground. Likewise, Heath filled the home's interior with one-of-a-kind and "seconds" Heathware. With its orientation to the outdoors and the organic development of its surrounding property, the Barge reflects the quintessential California lifestyle so aligned with Heathware.
