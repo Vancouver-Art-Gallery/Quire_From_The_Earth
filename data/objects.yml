@@ -47,3 +47,52 @@ object_list:
     link: https://www.getty.edu/art/collection/objects/34753/
     figure:
       - id: "family"
+  - id: 6
+    title: Oil on Paper Paintings
+    artist: Emily Carr
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "carr-42.3.55"
+      - id: "carr-42.3.57"
+      - id: "carr-42.3.59"
+      - id: "carr-42.3.62"
+      - id: "carr-42.3.64"
+      - id: "carr-42.3.65"
+      - id: "carr-42.3.76"
+      - id: "carr-42.3.79"
+      - id: "carr-42.3.82"
+      - id: "carr-42.3.83"
+      - id: "carr-42.3.84"
+      - id: "carr-87.17"
+  - id: 7
+    title: Charcoal and Oil on Paper
+    artist: Emily Carr
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "carr-42.3.157"
+      - id: "carr-42.3.159"
+      - id: "carr-42.3.160"
+      - id: "carr-42.3.161"
+      - id: "carr-42.3.169"
+  - id: 8
+    title: Forest Paintings on Canvas 
+    artist: Emily Carr
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "carr-42.3.13"
+      - id: "carr-42.3.14"
+      - id: "carr-42.3.17"
+      - id: "carr-42.3.19"
+      - id: "carr-42.3.25"          

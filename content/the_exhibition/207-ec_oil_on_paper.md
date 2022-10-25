@@ -6,7 +6,7 @@ type: entry
 class: side-by-side
 search: false
 object:
-  - id:
+  - id: 6
 ---
 When Emily Carr resumed her interest in painting in the early 1930s, she turned her attention to the forest landscape. She was, by this time, no longer interested in simple documentary images of the forest. Rather, she wanted to produce a thing that took on the character and form of the forest itself. This was achieved through the use of materials that shared a fluidity, translucency and sense of movement that closely matched her experience in the woods.
 
