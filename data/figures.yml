@@ -12,78 +12,63 @@ figure_list:
     src: 01_California_Clay/Heath_Carr_127.jpg
     caption: "Caption, Year. "
     credit: "Vancouver Art Gallery"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "carr-42.3.57"
+    src: "carr_works/VAG-42.3.57.crop.jpg"
+    alt: "Oil painting of triangular coniferous trees with orange and red accents."
+    caption: "*Untitled*, 1931--1932"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.55"
+    src: "carr_works/VAG-42.3.55.jpg"
+    alt: "Oil painting."
+    caption: "*Formalized Trees, Spring*, c. 1933"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.59"
+    src: "carr_works/VAG-42.3.59.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Untitled*, 1931--1932"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust" 
+  - id: "carr-42.3.62"
+    src: "carr_works/VAG-42.3.62.crop.jpg"
+    alt: "Oil painting of a large tree in a forest with light colours."
+    caption: "*Deep Forest, Lighted*, c. 1935"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.64"
+    src: "carr_works/VAG-42.3.64.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Three Cedar Trunks*, c. 1937"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.65"
+    src: "carr_works/VAG-42.3.65.crop.jpg"
+    alt: "Oil painting of a forest scene with tall coniferous trees with a blue sky visible in the upper right corner."
+    caption: "*Forest Edge and Sky*, c. 1934"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.76"
+    src: "carr_works/VAG-42.3.76.jpg"
+    alt: "Oil painting."
+    caption: "*Young Pines and Old Maple*, 1937--38"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.79"
+    src: "carr_works/VAG-42.3.79.crop.jpg"
+    alt: "Oil painting that depicts a forest clearing in the foreground with triangular trees behind."
+    caption: "*Untitled*, 1933--34"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.82"
+    src: "carr_works/VAG-42.3.82.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Path Among Pines*, c. 1930"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.63"
+    src: "carr_works/VAG-42.3.83.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Above the Trees*, c. 1939"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-42.3.84"
+    src: "carr_works/VAG-42.3.84.jpg"
+    alt: "Oil painting."
+    caption: "*Untitled*, 1938--39"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+  - id: "carr-87.17"
+    src: "carr_works/VAG-87.17.crop.jpg"
+    alt: "Oil painting depicting a stump surrounf by a grove of tall coniferous trees with concentric waves of vegetation below and behind."
+    caption: "*Untitled (Forest)*, c. 1936"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
