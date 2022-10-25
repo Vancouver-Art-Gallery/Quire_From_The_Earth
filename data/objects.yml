@@ -47,7 +47,7 @@ object_list:
     link: https://www.getty.edu/art/collection/objects/34753/
     figure:
       - id: "family"
-  - id: 6
+  - id: 207
     title: Oil on Paper Paintings
     artist: Emily Carr
     year: 
@@ -68,7 +68,7 @@ object_list:
       - id: "carr-42.3.83"
       - id: "carr-42.3.84"
       - id: "carr-87.17"
-  - id: 7
+  - id: 208
     title: Charcoal and Oil on Paper
     artist: Emily Carr
     year: 
@@ -82,7 +82,7 @@ object_list:
       - id: "carr-42.3.160"
       - id: "carr-42.3.161"
       - id: "carr-42.3.169"
-  - id: 8
+  - id: 209
     title: Forest Paintings on Canvas 
     artist: Emily Carr
     year: 
@@ -95,4 +95,29 @@ object_list:
       - id: "carr-42.3.14"
       - id: "carr-42.3.17"
       - id: "carr-42.3.19"
-      - id: "carr-42.3.25"          
+      - id: "carr-42.3.25"
+  - id: 405
+    title: Heath Ceramics Ashtrays 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "ashtray1"
+      - id: "ashtray2"
+  - id: 201
+    title: California Clay and Early Experiments 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "caliclay1"
+      - id: "caliclay2"
+      - id: "caliclay3"
+      - id: "caliclay4"
+                 
