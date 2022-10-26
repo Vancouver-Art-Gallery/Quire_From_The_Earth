@@ -120,4 +120,15 @@ object_list:
       - id: "caliclay2"
       - id: "caliclay3"
       - id: "caliclay4"
-                 
+  - id: 406
+    title: Luther Conover Cabinets 
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "conover1"
+      - id: "conover2"
+      - id: "conover3"               
