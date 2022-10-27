@@ -1,6 +1,6 @@
 ---
 label: 5
-title: "Ashtrays"
+title: "Heath Ceramics Ashtrays"
 weight: 405
 type: entry
 class: side-by-side

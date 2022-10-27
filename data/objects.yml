@@ -107,6 +107,7 @@ object_list:
     figure:
       - id: "ashtray1"
       - id: "ashtray2"
+      - id: "ashtray3"
   - id: 201
     title: California Clay and Early Experiments 
     artist: Edith Heath
@@ -183,4 +184,27 @@ object_list:
       - id: "porcelain1"
       - id: "porcelain2"
       - id: "porcelain3"
-      - id: "porcelain4"                                 
+      - id: "porcelain4"  
+  - id: 401
+    title: The Barge
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "barge1"
+      - id: "barge2"
+  - id: 2402
+    title: The Factory
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "factory1"
+      - id: "factory2"
+                                        
