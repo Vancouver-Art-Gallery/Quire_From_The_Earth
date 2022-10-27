@@ -131,4 +131,56 @@ object_list:
     figure:
       - id: "conover1"
       - id: "conover2"
-      - id: "conover3"               
+      - id: "conover3"  
+  - id: 202
+    title: Gump's/Hand-thrown to Production 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "gumps1"
+      - id: "gumps2"
+      - id: "gumps3"
+      - id: "gumps4"
+  - id: 204
+    title: Bright New Colours/Spray Glazes 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "newcolours1"
+      - id: "newcolours2"
+      - id: "newcolours3"  
+  - id: 203
+    title: Coupe/Original Glazes 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "coupe1"
+      - id: "coupe2"
+      - id: "coupe3"
+      - id: "coupe4"
+      - id: "coupe5" 
+  - id: 205
+    title: Two-toned Porcelain-lined and Exposed Clay Edge
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "porcelain1"
+      - id: "porcelain2"
+      - id: "porcelain3"
+      - id: "porcelain4"                                 

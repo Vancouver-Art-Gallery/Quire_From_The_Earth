@@ -8,6 +8,8 @@ class: side-by-side
 contributor:
   - id: Jay Stewart
 abstract:
+object:
+  - id: 201
 ---
 Edith Heath’s affinity for and fascination with her surrounding landscape informed her art. In 1943, she and her husband Brian spent weekends driving around California looking for clay deposits. With many clay-mining operations closed during World War II, the couple found defunct clay pits and gathered materials. They collected brick clays from Niles Canyon in the San Francisco Bay Area; white clay from Tesla, California; talc from Southern California; and eventually high refractory fire clays, which are used primarily to produce fire brick, from Ione, in the foothills of the Sierra Nevada.
 

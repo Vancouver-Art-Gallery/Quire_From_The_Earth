@@ -8,6 +8,8 @@ class: side-by-side
 contributor:
   - id:
 abstract:
+object:
+  - id: 203
 ---
 The original line of Heath California dinnerware, later known as the Coupe line, included a place setting comprised of three plates, a dessert bowl, a teacup and a saucer, complemented by two serving bowls, a creamer and sugar bowl set, salt and pepper shakers, and a platter. It quickly expanded to include casseroles, bowls, platters, ashtrays and other accessories in a variety of sizes that catered to a new, informal West Coast lifestyle. The introduction of this line marked the transition from solely hand-thrown ware to more industrialized production using jigger wheels and slip casting. Seventy-five years later, the Couple line is still in production---a testament to its durability and simple, enduring forms.
 
