@@ -11,5 +11,5 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://Vancouver-Art-Gallery.github.io/Quire_From_The_Earth/" # Needs trailing slash
+baseURL: "https://vancouver-art-gallery.github.io/Quire_From_The_Earth/" # Needs trailing slash
 canonifyURLs: true
