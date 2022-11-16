@@ -12,7 +12,7 @@ object_list:
     medium: Various
     dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
     location: Vancouver Art Gallery
-    link:
+    link: 
     figure:
       - id: "title-wall-VAG"
       - id: "carr_01"
@@ -47,15 +47,164 @@ object_list:
     link: https://www.getty.edu/art/collection/objects/34753/
     figure:
       - id: "family"
-  - id: 5
-    title:
-    artist:
-    year:
-    medium:
-    dimensions:
-    location:
-    link:
+  - id: 207
+    title: Oil on Paper Paintings
+    artist: Emily Carr
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
     figure:
-      - id: "cali-clay-01"
-      - id: "gumps_01"
-      - id: "title-wall-VAG"
+      - id: "carr-42.3.55"
+      - id: "carr-42.3.57"
+      - id: "carr-42.3.59"
+      - id: "carr-42.3.62"
+      - id: "carr-42.3.64"
+      - id: "carr-42.3.65"
+      - id: "carr-42.3.76"
+      - id: "carr-42.3.79"
+      - id: "carr-42.3.82"
+      - id: "carr-42.3.83"
+      - id: "carr-42.3.84"
+      - id: "carr-87.17"
+  - id: 208
+    title: Charcoal and Oil on Paper
+    artist: Emily Carr
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "carr-42.3.157"
+      - id: "carr-42.3.159"
+      - id: "carr-42.3.160"
+      - id: "carr-42.3.161"
+      - id: "carr-42.3.169"
+  - id: 209
+    title: Forest Paintings on Canvas 
+    artist: Emily Carr
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "carr-42.3.13"
+      - id: "carr-42.3.14"
+      - id: "carr-42.3.17"
+      - id: "carr-42.3.19"
+      - id: "carr-42.3.25"
+  - id: 405
+    title: Heath Ceramics Ashtrays 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "ashtray1"
+      - id: "ashtray2"
+      - id: "ashtray3"
+  - id: 201
+    title: California Clay and Early Experiments 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "caliclay1"
+      - id: "caliclay2"
+      - id: "caliclay3"
+      - id: "caliclay4"
+  - id: 406
+    title: Luther Conover Cabinets 
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "conover1"
+      - id: "conover2"
+      - id: "conover3"  
+  - id: 202
+    title: Gump's/Hand-thrown to Production 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "gumps1"
+      - id: "gumps2"
+      - id: "gumps3"
+      - id: "gumps4"
+  - id: 204
+    title: Bright New Colours/Spray Glazes 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "newcolours1"
+      - id: "newcolours2"
+      - id: "newcolours3"  
+  - id: 203
+    title: Coupe/Original Glazes 
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "coupe1"
+      - id: "coupe2"
+      - id: "coupe3"
+      - id: "coupe4"
+      - id: "coupe5" 
+  - id: 205
+    title: Two-toned Porcelain-lined and Exposed Clay Edge
+    artist: Edith Heath
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "porcelain1"
+      - id: "porcelain2"
+      - id: "porcelain3"
+      - id: "porcelain4"  
+  - id: 401
+    title: The Barge
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "barge1"
+      - id: "barge2"
+  - id: 2402
+    title: The Factory
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "factory1"
+      - id: "factory2"
+                                        
