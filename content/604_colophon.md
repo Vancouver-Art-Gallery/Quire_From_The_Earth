@@ -1,8 +1,8 @@
 ---
 title: "Colophon"
 weight: 604
-type: page
-class: side-by-side
+type: essay
+class:
 search: false
 object:
   - id:
