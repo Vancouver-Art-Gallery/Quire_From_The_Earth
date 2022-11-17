@@ -257,7 +257,7 @@ figure_list:
     alt: "Photograph of the exhibition with a bench, a large image of the Barge on the wall."
     caption: "Photograph of exhibition set up with the Barge display"
     credit: "Photo: Ian Lefebvre"                                   
-   - id: "barge2"
+  - id: "barge2"
     src: "exhibition/Carr_Heath_0009.jpg"
     alt: "Photograph of the exhibition with a bench, a large image of the Barge and visible ceramic pieces on the right side."
     caption: "Photograph of exhibition set up with the barge display"
