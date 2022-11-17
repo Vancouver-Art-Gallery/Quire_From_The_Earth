@@ -196,7 +196,7 @@ object_list:
     figure:
       - id: "barge1"
       - id: "barge2"
-  - id: 2402
+  - id: 402
     title: The Factory
     artist: 
     year: 
