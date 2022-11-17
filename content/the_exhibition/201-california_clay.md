@@ -1,6 +1,6 @@
 ---
 label: 1
-title: "California Clay / Early Experiments"
+title: "California Clay & Early Experiments"
 subtitle:
 weight: 201
 type: entry

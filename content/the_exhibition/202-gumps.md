@@ -1,6 +1,6 @@
 ---
 label: 2
-title: "Gump's & Hand Thrown to Production"
+title: "Gump's & Hand-Thrown to Production"
 subtitle:
 weight: 202
 type: entry
