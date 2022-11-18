@@ -17,7 +17,7 @@ Edith Heath's 1944 solo exhibition at the Legion of Honor caught the eye of Bill
 
 The dinnerware---plates, bowls, cups, saucers and a few accessories---was offered in soft blue, pale green and warm beige. While these pieces were prototypes of what would become the eponymous Coupe line, they stand apart from the later production ware. The Gump's pieces are thinner, with a matte finish, more variation in colour and prominent speckling. The connection to the earth is evident, and highlighting this connection became a standard refrain in the marketing language for Heathware. A Gump's brochure features a photograph of Heath throwing a pot on the wheel with text that emphasizes the materiality of the dinnerware, formed from "honest, unadulterated clay."
 
-> In my thinking about the relationship between material and the finished results, the finished results should reveal the origin. In other words, when you look at a piece, you should be aware this is clay, it's not plastic. (Heath, *Oral History*, p. 222)
+> In my thinking about the relationship between material and the finished results, the finished results should reveal the origin. In other words, when you look at a piece, you should be aware this is clay, it's not plastic. *(Heath,* Oral History, *p. 222)*
 
 ## Hand-thrown to Production
 
@@ -25,4 +25,4 @@ In 1947, Heath Ceramics moved to its first Sausalito factory, introducing indust
 
 The works here demonstrate this transition. Edith Heath exhibited a hand-thrown teapot, with a silver handle crafted by the silversmith Franz Bergman, at the San Francisco Museum of Art in 1947, winning the Louise S. Ackerman Award in Decorative Arts. The teapot was later described by Heath as the prototype of her production teapot, which she launched in 1948. A similar teapot, along with the matching tea bowls and saucers shown here, was exhibited that year at the Syracuse Museum of Fine Arts. A set of plates in the same Aubergine glaze also accompanied the tea set. Although these plates were made on the jigger wheel, Heath decorated them by hand.
 
-> Shapes created for reproduction must be powerful enough to withstand criticisms rarely hurled at a craftsman's freshly drawn shape. Their beauty must reflect a clarity of vision so transcendent as to appeal to the mind nd hearts of a fickle world. (Heath, c. 1980)
+> Shapes created for reproduction must be powerful enough to withstand criticisms rarely hurled at a craftsman's freshly drawn shape. Their beauty must reflect a clarity of vision so transcendent as to appeal to the mind nd hearts of a fickle world. *(Heath, c. 1980)*
