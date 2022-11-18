@@ -1,6 +1,6 @@
 ---
 label: 8
-title: "Emily Carr: Forest Paintings on Canvas"
+title: "Forest Paintings on Canvas"
 weight: 209
 type: entry
 class: side-by-side

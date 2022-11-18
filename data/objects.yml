@@ -109,7 +109,7 @@ object_list:
       - id: "ashtray2"
       - id: "ashtray3"
   - id: 201
-    title: California Clay and Early Experiments 
+    title: California Clay & Early Experiments 
     artist: Edith Heath
     year: 
     medium: 
@@ -134,7 +134,7 @@ object_list:
       - id: "conover2"
       - id: "conover3"  
   - id: 202
-    title: Gump's/Hand-thrown to Production 
+    title: Gump's & Hand-thrown to Production 
     artist: Edith Heath
     year: 
     medium: 
@@ -147,7 +147,7 @@ object_list:
       - id: "gumps3"
       - id: "gumps4"
   - id: 204
-    title: Bright New Colours/Spray Glazes 
+    title: Bright New Colours & Spray Glazes 
     artist: Edith Heath
     year: 
     medium: 
@@ -159,7 +159,7 @@ object_list:
       - id: "newcolours2"
       - id: "newcolours3"  
   - id: 203
-    title: Coupe/Original Glazes 
+    title: Coupe & Original Glazes 
     artist: Edith Heath
     year: 
     medium: 
@@ -173,7 +173,7 @@ object_list:
       - id: "coupe4"
       - id: "coupe5" 
   - id: 205
-    title: Two-toned Porcelain-lined and Exposed Clay Edge
+    title: Two-toned Porcelain-lined & Exposed Clay Edge
     artist: Edith Heath
     year: 
     medium: 
