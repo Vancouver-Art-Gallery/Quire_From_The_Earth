@@ -207,4 +207,27 @@ object_list:
     figure:
       - id: "factory1"
       - id: "factory2"
-                                        
+  - id: 404
+    title: Marketing Heath Ceramics
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "marketing1"
+      - id: "marketing2"
+      - id: "marketing3"    
+  - id: 403
+    title: UBC Vancouver
+    artist: 
+    year: 
+    medium: 
+    dimensions: 
+    location: 
+    link: 
+    figure:
+      - id: "ubc1"
+      - id: "ubc2"
+                                          
