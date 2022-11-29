@@ -196,6 +196,7 @@ object_list:
     figure:
       - id: "barge1"
       - id: "barge2"
+      - id: "barge3"
   - id: 402
     title: The Factory
     artist: 
@@ -207,6 +208,7 @@ object_list:
     figure:
       - id: "factory1"
       - id: "factory2"
+      - id: "facotry3"
   - id: 404
     title: Marketing Heath Ceramics
     artist: 
