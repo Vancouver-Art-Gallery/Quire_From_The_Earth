@@ -6,7 +6,7 @@ type: page
 class:
 search: false
 object:
-  - id:
+  - id: 401
 
 ---
 In 1948, the Heaths, with friends Eral and Kenny Leek, bought the Dorothea, an old potato hauler that they called "the Barge," for $2,850. Eral and Edith designed and built a duplex on the scow, with back-to-back fireplaces on the wall separating the two apartments. It floated on the Sausalito waterfront until, in 1951, the two couples moved the Barge to a waterfront acreage in nearby Tiburon. The Leeks and their children moved to Mill Valley in the late 1950s, and the Heaths continued to enjoy co-living over the next four decades, inviting various friends and family to stay for prolonged visits.
