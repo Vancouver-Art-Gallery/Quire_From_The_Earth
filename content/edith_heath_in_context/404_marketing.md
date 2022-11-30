@@ -12,21 +12,3 @@ The language describing Heath Ceramics products has remained remarkably consiste
 
 >"It was a challenge to meet the needs of a national market with a product that retained Heath's original intent---to remind people that dishes are made of materials of the earth---that earth is good---that shape and texture and colour may be so satisfying as to need no embellishment." *(Edith Heath)*
 
-
-
-
-
-“Finest California Stoneware Heath Dinnerware” brochure, 1948
-Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley
-
-Edith Heath arranging dinnerware on the factory floor, ca. 1955
-Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley
-
-“From the Earth: plates, cups, bowls by Heath” brochure, 1985
-Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley
-
-“From the Earth: Tiles by Heath” brochure, 1985
-Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley
-
-“Heath stoneware ash trays” brochure, 1967–71
-Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley
