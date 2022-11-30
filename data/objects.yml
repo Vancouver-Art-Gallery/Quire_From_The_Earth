@@ -220,7 +220,8 @@ object_list:
     figure:
       - id: "marketing1"
       - id: "marketing2"
-      - id: "marketing3"    
+      - id: "marketing3" 
+      - id: "marketing4"   
   - id: 403
     title: UBC Vancouver
     artist: 
