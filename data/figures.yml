@@ -314,14 +314,14 @@ figure_list:
     credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
   - id: "factory4"
     src: "ml_selection/factory-still.jpg"       
-    media_id:
-    media_type: 
+    media_id: "OoVnw89MzBI"
+    media_type: "youtube"
     caption: "Slideshow of archival images of the Heath Ceramics factories"
     credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
   - id: "barge4"
     src: "ml_selection/barge-still.jpg"       
-    media_id:
-    media_type: 
+    media_id: "k0aRybAkLgg"
+    media_type: "youtube"
     caption: "Slideshow of archival images of the Heath's home, the Barge"
     credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"  
 
