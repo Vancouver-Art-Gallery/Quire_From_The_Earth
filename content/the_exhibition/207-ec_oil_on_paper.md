@@ -1,6 +1,6 @@
 ---
 label: 6
-title: "Emily Carr: Oil on Paper Paintings"
+title: "Oil on Paper Paintings"
 weight: 207
 type: entry
 class: side-by-side

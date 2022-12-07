@@ -1,9 +1,10 @@
 ---
 label:
-title: "Introduction: Edith Heath in Context"
+title: "Edith Heath in Context"
 weight: 400
-type: grid
-class:
+type: contents
+class: grid
+slug: .
 search: false
 object:
   - id:
