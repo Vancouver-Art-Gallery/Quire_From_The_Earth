@@ -34,7 +34,7 @@ $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
 // -----------------------------------------------------------------------------
-$quire-cover-text-color: $white;
+$quire-cover-text-color: $NavajoWhite;
 $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 
 // Menu
@@ -66,8 +66,8 @@ $print-text-color: $black;
 
 $print-splash-color: $off-white;
 
-$print-entry-image-color: $rich-black;
-$print-entry-caption-color: $white;
+$print-entry-image-color: $white;
+$print-entry-caption-color: $black;
 $print-entry-image-display: all; // first | all
 
 // Themes
