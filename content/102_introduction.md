@@ -1,8 +1,10 @@
 ---
 title: "Introduction"
 weight: 102
-type: essay 
+type: page 
 ---
+{{< q-figure id="intro1" >}}
+
 *Edith Heath and Emily Carr: From the Earth* brings together the work of two artists who had a mutual understanding of the land as the source and meaning of their art. Both found a deep inspiration in the landscape---its colours, light, materials---returning again and again to sites that inspired their creativity and defined their practices.
 
 This exhibition and digital publication builds on an ongoing program that offers opportunities to consider the art of Emily Carr in a different light. Past exhibitions have focused on directly shared histories or on stylistic affinity, while others have pointed to the significance of Carr’s influence on modern and contemporary artists. Emily Carr and Edith Heath never met, but they do share a common identity as modernist women who lived on the West Coast and struggled to build careers in the creative arts that spoke to the specificity of their time and place.
