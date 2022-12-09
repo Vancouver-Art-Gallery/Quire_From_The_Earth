@@ -1,11 +1,11 @@
 ---
 label: 7
-title: "Timeline (slideshow)"
+title: "Timeline"
 weight: 407
 type: entry
-class: side-by-side
-search: false
+class: lanscape
+search: 
 object:
-  - id:
+  - id: 407
 ---
-**import image of timeline**
+All illustrations and images are from Brian and Edith Heath/Heath Ceramics Collection, Evironmental Design Archives, UC Berkeley, unless otherwise noted.
