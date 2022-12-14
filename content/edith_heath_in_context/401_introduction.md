@@ -2,9 +2,8 @@
 label:
 title: "Edith Heath in Context"
 weight: 401
-type: contents
-class: grid
-slug: .
+type: essay
+class: 
 search: false
 object:
   - id:

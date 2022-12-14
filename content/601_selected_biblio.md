@@ -1,7 +1,7 @@
 ---
 title: "Selected Bibliography"
 weight: 601
-type: essay
+type: page
 class:
 search: false
 object:

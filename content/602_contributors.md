@@ -1,7 +1,7 @@
 ---
 title: "Contributors"
 weight: 602
-type: essay
+type: page
 class: 
 search: false
 object:

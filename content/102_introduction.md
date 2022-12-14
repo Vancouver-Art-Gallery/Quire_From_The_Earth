@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 weight: 102
-type: page 
+type: essay 
 ---
 {{< q-figure id="intro1" >}}
 
