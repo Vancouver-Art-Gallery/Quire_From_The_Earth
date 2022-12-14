@@ -1,12 +1,12 @@
 ---
 label: 5
 title: "Heath Ceramics Ashtrays"
-weight: 405
+weight: 406
 type: entry
 class: side-by-side
 search: false
 object:
-  - id: 405
+  - id: 406
 ---
 Brian Heath adapted the ashtray from a cereal bowl, adding notches along the rim to securely hold a cigarette while the smoker wrote or answered the phone. The V-shaped notch also extinguished a cigarette before it burned through and fell outside the ashtray.
 

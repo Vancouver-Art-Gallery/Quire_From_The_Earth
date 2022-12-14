@@ -1,12 +1,12 @@
 ---
 label: 8
 title: "Forest Paintings on Canvas"
-weight: 209
+weight: 303
 type: entry
 class: side-by-side
 search: false
 object:
-  - id: 209
+  - id: 303
 ---
 Emily Carr's forest paintings on canvas don't share the same sense of translucency and fluidity that she achieved in the charcoal and oil on paper paintings seen elsewhere in this exhibition. Carr's paintings on canvas offer, as one might expect, a studied representation of the Vitalist presence of the forest, land and sky. These paintings---large, cumbersome and demanding---were produced in the studio and based on the sketches done earlier in the forest.
 

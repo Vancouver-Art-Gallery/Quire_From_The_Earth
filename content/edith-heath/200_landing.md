@@ -1,6 +1,6 @@
 ---
 label:
-title: "From the Earth: Edith Heath | Emily Carr"
+title: "Edith Heath"
 weight: 200
 type: contents
 class: grid
