@@ -1,12 +1,12 @@
 ---
 label: 6
 title: "Oil on Paper Paintings"
-weight: 207
+weight: 301
 type: entry
 class: side-by-side
 search: false
 object:
-  - id: 207
+  - id: 301
 ---
 In a private journal entry from September 1935, Emily Carr described her intimate vision of the forest as an overwhelming physical presence, a joyous world of light, colour and shape:
 

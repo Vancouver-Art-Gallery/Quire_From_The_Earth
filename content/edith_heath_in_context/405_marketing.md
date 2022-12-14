@@ -1,12 +1,12 @@
 ---
 label: 4
 title: "Marketing Heath Ceramics"
-weight: 404
+weight: 405
 type: entry
 class: side-by-side
 search: false
 object:
-  - id: 404
+  - id: 405
 ---
 The language describing Heath Ceramics products has remained remarkably consistent over the life of the company; simple, functional, durable, versatile, distinctive, graceful and contemporary are all words that appear repeatedly in marketing brochures and press materials. Revolutionary at the time for its departure from both the aesthetics and applications of traditional dinnerware, Edith Heath's Coupe line quickly became a modern classic, synonymous with an easygoing lifestyle that emerged in post-war America. Undoubtedly, part of the enduring appeal of the stoneware was Heath's commitment to the primacy of the clay, which gave her work an organic quality, one that always referenced the earth, nature and the California landscape.
 

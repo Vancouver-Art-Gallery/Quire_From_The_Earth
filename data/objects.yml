@@ -17,7 +17,7 @@ object_list:
       - id: "title-wall-VAG"
       - id: "carr_01"
       - id: "mother-c"
-  - id: 207
+  - id: 301
     title: Oil on Paper Paintings
     artist: Emily Carr
     year: 
@@ -38,7 +38,7 @@ object_list:
       - id: "carr-42.3.83"
       - id: "carr-42.3.84"
       - id: "carr-87.17"
-  - id: 208
+  - id: 302
     title: Charcoal and Oil on Paper
     artist: Emily Carr
     year: 
@@ -52,7 +52,7 @@ object_list:
       - id: "carr-42.3.160"
       - id: "carr-42.3.161"
       - id: "carr-42.3.169"
-  - id: 209
+  - id: 303
     title: Forest Paintings on Canvas 
     artist: Emily Carr
     year: 
@@ -66,7 +66,7 @@ object_list:
       - id: "carr-42.3.17"
       - id: "carr-42.3.19"
       - id: "carr-42.3.25"
-  - id: 405
+  - id: 406
     title: Heath Ceramics Ashtrays 
     artist: Edith Heath
     year: 
@@ -91,7 +91,7 @@ object_list:
       - id: "caliclay2"
       - id: "caliclay3"
       - id: "caliclay4"
-  - id: 406
+  - id: 407
     title: Luther Conover Cabinets 
     artist: 
     year: 
@@ -155,7 +155,7 @@ object_list:
       - id: "porcelain2"
       - id: "porcelain3"
       - id: "porcelain4"  
-  - id: 401
+  - id: 402
     title: The Barge
     artist: 
     year: 
@@ -168,7 +168,7 @@ object_list:
       - id: "barge2"
       - id: "barge3"
       - id: "barge4"
-  - id: 402
+  - id: 403
     title: The Factory
     artist: 
     year: 
@@ -181,7 +181,7 @@ object_list:
       - id: "factory2"
       - id: "factory3"
       - id: "factory4"
-  - id: 404
+  - id: 405
     title: Marketing Heath Ceramics
     artist: 
     year: 
@@ -194,7 +194,7 @@ object_list:
       - id: "marketing2"
       - id: "marketing3" 
       - id: "marketing4"   
-  - id: 403
+  - id: 404
     title: UBC Vancouver
     artist: 
     year: 
@@ -205,7 +205,7 @@ object_list:
     figure:
       - id: "ubc1"
       - id: "ubc2"
-  - id: 407
+  - id: 408
     title: Timeline
     artist: 
     year: 
