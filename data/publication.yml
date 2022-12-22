@@ -36,7 +36,7 @@ publisher:
   - name: Vancouver Art Gallery
     location: Vancouver
     url:
-    logo: logo-getty.png
+    logo: VAG-logo.jpg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -53,7 +53,7 @@ contributor:
     affiliation: Heath Foundation
     bio: "Jay Stewart is the Trustee of the Brian and Edith Foundation. She knew the Heaths from the time of her birth to their deaths; at their request, she assisted with their personal affairs in their later years. Since Edith Heath’s death in 2005, Stewart has devolved the Heaths’ estate, placing their extensive archives at the Environmental Design Archives, UC Berkeley and assembling a study collection of Heath Ceramics’ products. With her husband, Peter Macnair, Stewart is a peripatetic curator, consulting on the material culture and ethnology of First Nations of the Northwest Coast. Exhibitions and publications include To the Totem Forests: Emily Carr and Contemporaries Interpret Coastal Villages (Art Gallery of Greater Victoria, 1998), Down from the Shimmering Sky: Masks of the Northwest Coast (Vancouver Art Gallery, 1998), Listening to the Ancestors: The Art of Native Life in the Pacific Northwest (National Museum of the American Indian, 2000–2006), and Raven Travelling: Two Centuries of Haida Art (Vancouver Art Gallery 2006)."
     url:
-    pic: contributors/degas.jpg
+    pic: 
 
   - id: Jennifer Volland
     type: primary
@@ -63,17 +63,17 @@ contributor:
     affiliation:
     bio: "**NEED BIO** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae dignissim dui. Nunc malesuada consequat vehicula. Nunc porttitor a turpis vel tristique. Curabitur eu augue nisi. Ut mollis semper mauris sit amet auctor. Sed purus est, cursus vel volutpat posuere, sodales in sapien. Duis semper suscipit vulputate. Fusce pharetra mattis felis, fringilla porta nulla auctor id. Nulla auctor nulla vel elit vestibulum porta. Sed a sapien eu erat iaculis accumsan eu non diam. Quisque aliquam gravida ipsum, quis efficitur lacus commodo sed. Phasellus eu imperdiet lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies dui a vehicula finibus. Nullam rutrum mi eu turpis maximus, a iaculis lacus mollis."
     url:
-    pic: contributors/manet.jpg
+    pic: 
 
   - id: Bruce Grenville
     type: primary
     first_name: Bruce
     last_name: Grenville
-    title: Senior Curator, Vancouver Art Gallery
-    affiliation:
+    title: Senior Curator
+    affiliation: Vancouver Art Gallery
     bio: "**NEED BIO** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae dignissim dui. Nunc malesuada consequat vehicula. Nunc porttitor a turpis vel tristique. Curabitur eu augue nisi. Ut mollis semper mauris sit amet auctor. Sed purus est, cursus vel volutpat posuere, sodales in sapien. Duis semper suscipit vulputate. Fusce pharetra mattis felis, fringilla porta nulla auctor id. Nulla auctor nulla vel elit vestibulum porta. Sed a sapien eu erat iaculis accumsan eu non diam. Quisque aliquam gravida ipsum, quis efficitur lacus commodo sed. Phasellus eu imperdiet lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies dui a vehicula finibus. Nullam rutrum mi eu turpis maximus, a iaculis lacus mollis."
     url:
-    pic: contributors/diderot.jpg
+    pic: 
 
 # ------------------------------------------------------------------------------
 # Copright & License
