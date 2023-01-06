@@ -1,5 +1,5 @@
 ---
-label: 5
+label: 
 title: "Heath Ceramics Ashtrays"
 weight: 406
 type: entry

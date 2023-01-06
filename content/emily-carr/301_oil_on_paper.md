@@ -1,5 +1,5 @@
 ---
-label: 6
+label: 
 title: "Oil on Paper Paintings"
 weight: 301
 type: entry

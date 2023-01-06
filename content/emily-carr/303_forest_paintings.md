@@ -1,5 +1,5 @@
 ---
-label: 8
+label: 
 title: "Forest Paintings on Canvas"
 weight: 303
 type: entry

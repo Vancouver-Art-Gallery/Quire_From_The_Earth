@@ -1,5 +1,5 @@
 ---
-label: 1
+label: 
 title: "The Barge and California Lifestyle"
 weight: 402
 type: page

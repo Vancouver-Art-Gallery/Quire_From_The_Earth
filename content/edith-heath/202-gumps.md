@@ -1,5 +1,5 @@
 ---
-label: 2
+label: 
 title: "Gump's & Hand-Thrown to Production"
 subtitle:
 weight: 202

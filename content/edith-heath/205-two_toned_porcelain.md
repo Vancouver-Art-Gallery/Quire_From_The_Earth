@@ -1,5 +1,5 @@
 ---
-label: 5
+label: 
 title: "Two-toned Porcelain-lined & Exposed Clay Edge"
 subtitle:
 weight: 205

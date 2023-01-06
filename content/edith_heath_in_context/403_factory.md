@@ -1,5 +1,5 @@
 ---
-label: 2
+label: 
 title: "Factory"
 weight: 403
 type: entry

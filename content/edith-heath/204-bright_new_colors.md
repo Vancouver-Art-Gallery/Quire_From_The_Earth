@@ -1,5 +1,5 @@
 ---
-label: 4
+label: 
 title: "Bright New Colours & Spray Glazes"
 subtitle:
 weight: 204

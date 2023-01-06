@@ -1,5 +1,5 @@
 ---
-label: 6
+label: 
 title: "Conover Displays"
 weight: 407
 type: entry

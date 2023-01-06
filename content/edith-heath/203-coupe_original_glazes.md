@@ -1,5 +1,5 @@
 ---
-label: 3
+label: 
 title: "Coupe & Original Glazes"
 subtitle:
 weight: 203

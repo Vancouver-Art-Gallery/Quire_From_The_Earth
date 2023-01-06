@@ -1,5 +1,5 @@
 ---
-label: 4
+label: 
 title: "Marketing Heath Ceramics"
 weight: 405
 type: entry

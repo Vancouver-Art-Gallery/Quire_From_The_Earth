@@ -1,5 +1,5 @@
 ---
-label: 7
+label: 
 title: "Charcoal and Oil on Paper"
 weight: 302
 type: entry

@@ -1,5 +1,5 @@
 ---
-label: 1
+label: 
 title: "California Clay & Early Experiments"
 subtitle:
 weight: 201

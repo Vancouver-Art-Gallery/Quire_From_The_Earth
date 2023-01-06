@@ -1,6 +1,6 @@
 ---
 title: "Biographies"
-weight: 302
+weight: 600
 type: page
 class:
 search: false
